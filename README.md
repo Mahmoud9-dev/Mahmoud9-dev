@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nasredeen</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud09-dev" alt="mahmoud09-dev" /></a> </p>
 
 - 🌱 I’m currently learning **MERN-stack**
 
@@ -19,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud09-dev&show_icons=true&locale=en&layout=compact" alt="mahmoud09-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud09-dev&" alt="mahmoud09-dev" /></p>
