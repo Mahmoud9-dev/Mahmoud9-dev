@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nasredeen</h1>
 <h3 align="center">Software Engineer</h3>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 🌱 I’m currently learning **MERN-stack**
 
