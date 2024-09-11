@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1e92295-db35-4f54-aa3f-16e0e3627bf6)# 👨🏻‍💻 [Mahmoud Nasredeen] 
+👨🏻‍💻 [Mahmoud Nasredeen] 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mahmoud-nasredeen/)](https://www.linkedin.com/in/mahmoud-nasredeen/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/MahmoudAhmed090)](https://t.me/MahmoudAhmed090)
