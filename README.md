@@ -1,7 +1,8 @@
 👨🏻‍💻 [Mahmoud Nasredeen] 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mahmoud-nasredeen/)](https://www.linkedin.com/in/mahmoud-nasredeen/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/MahmoudAhmed090)](https://t.me/MahmoudAhmed090)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/MahmoudAhmed090)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](Mahmoud0114829@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](www.linkedin.com/in/mahmoud-nasredeen)
 
 # 👋 Hello, Tech World! Junior Software Engineer | MERN stack specialist  Here!
 
