@@ -14,7 +14,7 @@
 
 I'm a passionate Junior Full-Stack Engineer who loves crafting efficient, scalable, and user-friendly applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. My journey in tech is fueled by an insatiable curiosity and a desire to solve complex problems through clean, maintainable code. 🚀
 
-I focus on delivering high-quality software that emphasizes performance, security, and maintainability, while constantly striving to learn and implement the best practices in web development. Whether it's building projects from scratch or enhancing existing applications, I enjoy the challenge of transforming ideas into solutions.ش
+I focus on delivering high-quality software that emphasizes performance, security, and maintainability, while constantly striving to learn and implement the best practices in web development. Whether it's building projects from scratch or enhancing existing applications, I enjoy the challenge of transforming ideas into solutions.
 
 
 
