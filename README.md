@@ -15,10 +15,12 @@
 ![giphy](https://github.com/user-attachments/assets/4a1ae3f6-fee9-49c9-b6d6-8facb0c5e73e)
 
 
-- **15+ projects** delivered using React, Tailwind CSS, and Three.js  
-- **90+ Lighthouse scores** achieved through aggressive performance optimization  
-- **40% mobile retention** boosted via user-centric design principles  
-- **25% faster page loads** by optimizing assets and lazy loading  
+**🚀 15+ projects** delivered using React, Tailwind CSS, and Three.js  
+**🔥 90+ Lighthouse scores** achieved through aggressive performance optimization  
+**📱 40% mobile retention** boosted via user-centric design principles  
+**⏩ 25% faster page loads** by optimizing assets and lazy loading  
+
+
 
 
 
