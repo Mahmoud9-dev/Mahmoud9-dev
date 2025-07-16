@@ -15,7 +15,7 @@
 ![giphy](https://github.com/user-attachments/assets/4a1ae3f6-fee9-49c9-b6d6-8facb0c5e73e)
 
 
-**🚀 15+ projects** delivered using React, Tailwind CSS, and Three.js  
+**🚀 4+ projects** delivered using React, Tailwind CSS  
 **🔥 90+ Lighthouse scores** achieved through aggressive performance optimization  
 **📱 40% mobile retention** boosted via user-centric design principles  
 **⏩ 25% faster page loads** by optimizing assets and lazy loading  
@@ -36,3 +36,44 @@
 
 
 </div>
+
+
+
+Even the most powerful app can go unnoticed if the user interface doesn’t deliver. I’ve seen technically flawless products struggle simply because their design failed to connect with users. That’s where I come in.
+
+I specialize in building **user-first applications** that are not only fast and scalable, but also **intuitive, engaging, and beautiful.** From responsive UIs to secure backends, I bridge the gap between technical performance and user experience.
+
+---
+
+### 🚀 What I Offer
+
+⚡ **MERN Web Apps** – Full-stack development using MongoDB, Express, React, and Node  
+⚡ **Responsive UI/UX** – Pixel-perfect, mobile-first designs with Tailwind CSS or MUI  
+⚡ **REST & GraphQL APIs** – Clean and scalable API design using Express and Node  
+⚡ **Real-Time Features** – WebSockets (Socket.io) for chat, notifications, live updates  
+⚡ **Authentication** – JWT, Clerk, OAuth, and role-based access control  
+⚡ **Performance Optimization** – Code splitting, SSR (Next.js), and lazy loading  
+⚡ **CI/CD & Deployment** – Vercel, Netlify, AWS, GitHub Actions  
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+⚡ **Frontend:** React, Next.js, Tailwind CSS, Material-UI  
+⚡ **Backend:** Node.js, Express, REST APIs, GraphQL  
+⚡ **Database:** MongoDB, Mongoose, Supabase  
+⚡ **Real-Time:** Socket.io, WebRTC basics  
+⚡ **Testing:** Jest, React Testing Library, Mocha  
+⚡ **State Management:** Redux, Context API, Zustand, React Query  
+⚡ **DevOps:** GitHub Actions, Netlify, Vercel  
+⚡ **Tools:** Postman, ESLint, Prettier, Figma, Git  
+
+
+---
+
+### 💡 Philosophy
+
+> Great apps aren't just functional—they’re delightful.  
+> I build software that **works well and feels right**.
+
+
