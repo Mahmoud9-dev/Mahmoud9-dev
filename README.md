@@ -76,4 +76,4 @@ I specialize in building **user-first applications** that are not only fast and 
 > Great apps aren't just functional—they’re delightful.  
 > I build software that **works well and feels right**.
 
-
+👉 Check out my [portfolio!](https://mndportfolio.netlify.app/)
